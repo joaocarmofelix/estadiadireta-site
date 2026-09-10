@@ -191,7 +191,7 @@ h2.display{ font-size: clamp(1.9rem, 3.4vw, 2.6rem); line-height: 1.1; max-width
 .cf-overlay .cf-overlay-title.success{ color: var(--green); }
 .cf-overlay .cf-overlay-title.error{ color: var(--pin-wine); }
 .cf-overlay .cf-overlay-text{ font-size: 0.92rem; color: var(--charcoal-soft); max-width: 34ch; }
-.cf-overlay .cf-overlay-close{ margin-top: 0.5rem; align-self: center; }
+.cf-overlay .cf-overlay-close{ margin-top: 0.5rem; }
 @media (max-width: 560px){ .contact-form .cf-row{ grid-template-columns: 1fr; } }
 
 footer{ border-top: 1px solid var(--border); padding: 2.5rem 0; }
