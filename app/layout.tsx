@@ -26,6 +26,13 @@ export const metadata: Metadata = {
     locale: "pt_PT",
     type: "website",
   },
+  icons: {
+    icon: "https://res.cloudinary.com/duan4iac7/image/upload/v1789726484/logo_icon_z15qov.png",
+    shortcut:
+      "https://res.cloudinary.com/duan4iac7/image/upload/v1789726484/logo_icon_z15qov.png",
+    apple:
+      "https://res.cloudinary.com/duan4iac7/image/upload/v1789726484/logo_icon_z15qov.png",
+  },
   // Depois de criares a propriedade no Google Search Console, cola aqui o
   // codigo de verificacao que te derem (metodo "tag HTML"), so o valor do
   // atributo content, sem o resto da tag:
